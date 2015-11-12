@@ -1,0 +1,9 @@
+./mound_distributions/image_output/*
+./mound_distributions/shapefiles/*
+./mound_distributions/container_data/*
+*.csv
+*.mat
+*.tif
+mound_distributions/multi_mounds_working.mat
+bedding_orientation/orientationData.mat
+bedding_orientation/MOUND_STATS_WORKING.mat
